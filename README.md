@@ -19,9 +19,9 @@ This project involves training a machine learning model for [classifying the cat
 ## Model
 
 ### Model File
-- [Download Model](https://github.com/nazmi08/Text-Classification-using-Deep-Learning-Algorithm/tree/main/models)
+- [Download Model](https://github.com/nazmi08/Text-Classification-using-Deep-Learning-Algorithm/tree/main/saved_models)
 ### Model Architecture
-![Model Architecture](https://github.com/nazmi08/Text-Classification-using-Deep-Learning-Algorithm/blob/main/models/model_architecture.png?raw_true)
+![Model Architecture](https://github.com/nazmi08/Text-Classification-using-Deep-Learning-Algorithm/blob/main/saved_models/model_architecture.png?raw_true)
 
 ## Training Metrics
 
