@@ -8,7 +8,7 @@ This project involves training a machine learning model for [classifying the cat
 ## Training and Deployment
 
 ### Training Scripts
-- `NAZMI_Assesment2_training.ipynb`: This python notebook file consist the training of the model
+- `NAZMI_Assesment3_training.ipynb`: This python notebook file consist the training of the model
 
 ### Deployment Scripts
 - `NAZMI_Assesment3_deploy.py`: This python notebook file consist the deployment of the model
